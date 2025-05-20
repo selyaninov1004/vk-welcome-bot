@@ -6,7 +6,7 @@ import requests
 app = Flask(__name__)
 
 GROUP_TOKEN = "vk1.a.9KdmzVfgeuj8We1TRNniATbwaAyt_XG7LJX5JPGQBEaNmI9xeoVSTel6oX-56MokKCR7r_0odhT4dPAFa0eFAtIQcfbQMhuCrbmEiamehEI6N6n1gFaqVviA6pXa2m4EPKhXHyB8kPsy-QV5GPjfXpyv3zuCcOCePvzzFlszDp3Z3HZDC86YUGy2rXTWUPaPXjcZ_TifLC4vquvxAaEsXQ"
-CONFIRMATION_TOKEN = "e6333407"
+CONFIRMATION_TOKEN = "e18dd0c6"
 WELCOME_LINK = "https://www.asu.ru/"
 
 @app.route("/", methods=["POST"])
